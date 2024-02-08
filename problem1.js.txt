@@ -1,0 +1,3 @@
+let i=10;
+
+(i%2==0)? console.log("even"):console.log("odd");
